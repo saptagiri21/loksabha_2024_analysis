@@ -13,11 +13,11 @@
 4.Top candidate comparisons
 
 # Tools used
-postgres sql
-JOINS
-CTE
-ROW_NUMBER()
-CASE
+1.postgres sql 
+2.JOINS
+3.CTE
+4.ROW_NUMBER()
+4.CASE
 
  # Analytical Highlights
 1.NDA retained dominance in northern and central India, especially in UP and MP.
