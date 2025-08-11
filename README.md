@@ -14,6 +14,10 @@
 
 # Tools used
 postgres sql
+JOINS
+CTE
+ROW_NUMBER()
+CASE
 
  # Analytical Highlights
 1.NDA retained dominance in northern and central India, especially in UP and MP.
